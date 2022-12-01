@@ -3,7 +3,7 @@
 <p align="center">
   
   <p align="center">
-  <a href="https://www.linkedin.com/in/aadityeahh/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aadityeahh/" target="_blank"><img src="https://camo.githubusercontent.com/12d696c039b7e718da27138d78a1a5e2dadcb331ad441652c1ce2df0d8f2ef41/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b6564496e26636f6c6f723d304136364332266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d464646464646266c6162656c3d" /></a>
   <a href="mailto:aaditya.j@icloud.com" target="_blank"><img src="https://camo.githubusercontent.com/7a69bd5d09a95f693fb09fa498af196ea6fceecf63a70a7a37d17d5de5c97d17/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d69436c6f756426636f6c6f723d333639334633266c6f676f3d69436c6f7564266c6f676f436f6c6f723d464646464646266c6162656c3d" /></a>
  <a href="https://www.instagram.com/_aadityeah_/" target="_blank"><img src="https://camo.githubusercontent.com/32de3d6ae0d152d74e6672352d26fa61f265b2bddbca55655b4c413a97c17385/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e7374616772616d26636f6c6f723d453434303546266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
   <!--  <a href="https://twitter.com/--------" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>   -->
