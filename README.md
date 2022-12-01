@@ -40,7 +40,7 @@
 <br>
 
  #### :zap: Github Stats:
- ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=aadityeahh&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityeah&layout=compact&theme=tokyonight)](https://github.com/aadityeahh)
+ ![Aaditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityeahh&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityeahh&layout=compact&theme=tokyonight)](https://github.com/aadityeahh)
 
 <br></br>
 
@@ -65,7 +65,6 @@
 
 <!--
 ### Connect with me! 🚀:  
-[![PORTFOLIO Badge](https://img.shields.io/badge/Portfolio-fa4a0c?style=flat-square&link=https://devtripathi.live/)](https://devtripathi.live/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityeahh/)](https://www.linkedin.com/in/aadityeahh)
 [![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditya.j@icloud.com)](mailto:aaditya.j@icloud.com)
 
