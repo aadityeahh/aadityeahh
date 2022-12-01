@@ -3,7 +3,7 @@
 <p align="center">
   
   <p align="center">
-  <a href="https://https://www.linkedin.com/in/aadityeahh/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aadityeahh/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:aaditya.j@icloud.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/_aadityeah_/" target="_blank"><img src="https://img.shields.io/badge/instagram-595858.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <!--  <a href="https://twitter.com/--------" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>   -->
@@ -40,7 +40,7 @@
 <br>
 
  #### :zap: Github Stats:
- ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=tripathi-dev&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathi-dev&layout=compact&theme=tokyonight)](https://github.com/tripathi-dev/tripathi-dev)
+ ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=aadityeahh&show_icons=true&theme=tokyonight)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityeah&layout=compact&theme=tokyonight)](https://github.com/aadityeahh)
 
 <br></br>
 
@@ -66,8 +66,8 @@
 <!--
 ### Connect with me! 🚀:  
 [![PORTFOLIO Badge](https://img.shields.io/badge/Portfolio-fa4a0c?style=flat-square&link=https://devtripathi.live/)](https://devtripathi.live/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-shankar-tripathi/)](https://www.linkedin.com/in/dev-shankar-tripathi/)
-[![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev_tripathi@outlook.com)](mailto:dev_tripathi@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityeahh/)](https://www.linkedin.com/in/aadityeahh)
+[![MAIL Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditya.j@icloud.com)](mailto:aaditya.j@icloud.com)
 
 <br></br>
 
