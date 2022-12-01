@@ -32,10 +32,6 @@
 <hr>
 <br>
 
-- 🌱 I’m currently working on some openCV projects
-- 🤔 Learning Data Analytics & Machine learning Algorithms
-- 👯 Looking to collaborate with other App Devs & UX Designers
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Feel free to drop a message or any query
 - 📫 How to reach me email: aaditya.j@icloud.com
 <br>
