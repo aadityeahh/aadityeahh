@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/tripathi-dev/count.svg" alt="You are vistor number: " height="30" /></td>
+    <td><img src="https://profile-counter.glitch.me/aadityeahh/count.svg" alt="You are vistor number: " height="30" /></td>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"  width="45%"/>
     
   </tr>
